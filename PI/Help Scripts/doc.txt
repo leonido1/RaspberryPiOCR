@@ -1,0 +1,1 @@
+Those are scripts,whose purpose is to find the correct values of the coordinates and detection threshold
